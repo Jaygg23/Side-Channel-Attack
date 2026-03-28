@@ -1,5 +1,7 @@
-# PEPSI_Programming
+# 부채널 분석
 
+## PEPSI_Programming
+ 
 2025.03 ~ 2025.11
 1. AES 구현
 2. AES_DPA 구현
