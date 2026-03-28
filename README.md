@@ -1,7 +1,6 @@
 # 부채널 분석
 
 ## PEPSI_Programming
- 
 2025.03 ~ 2025.11
 1. AES 구현
 2. AES_DPA 구현
@@ -10,3 +9,7 @@
 5. 2022 부채널 분석_ARIA CPA
 6. AES_Hiding
 7. AES_Masking
+
+## 딥러닝
+1. 프로파일링 분석
+2. 비프로파일링 분석
